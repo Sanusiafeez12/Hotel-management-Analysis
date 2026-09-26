@@ -202,13 +202,13 @@ Based on the supplied workbook:
 Revenue by Room Type
 
 Room Type| Total Bill
-Single| ₦1,210,000
-Double| ₦1,372,000
-Deluxe| ₦2,210,000
-Suite| ₦3,040,000
-Total| ₦7,847,000
+Single| $1,210,000
+Double| $1,372,000
+Deluxe| $2,210,000
+Suite| $3,040,000
+Total| $7,847,000
 
-The supplied report shows Suite rooms with the largest room-type total bill at ₦3.040 million.
+The supplied report shows Suite rooms with the largest room-type total bill at $3.040 million.
 
 ---
 
@@ -217,10 +217,10 @@ The supplied report shows Suite rooms with the largest room-type total bill at �
 The workbook contains three payment methods:
 
 Payment Method| Total Bill
-Cash| ₦2,768,000
-POS| ₦2,807,000
-Transfer| ₦2,272,000
-Total| ₦7,847,000
+Cash| $2,768,000
+POS| $2,807,000
+Transfer| $2,272,000
+Total| $7,847,000
 
 The payment records allow management to monitor payment activity and support reconciliation.
 
@@ -229,14 +229,14 @@ The payment records allow management to monitor payment activity and support rec
 📅 Monthly Billing Analysis
 
 Month| Total Bill
-January| ₦1,067,000
-February| ₦809,000
-March| ₦1,237,000
-April| ₦338,000
-May| ₦1,370,000
-June| ₦1,345,000
-July| ₦1,056,000
-August| ₦625,000
+January| $1,067,000
+February| $809,000
+March| ₦$1,237,000
+April| $338,000
+May| $1,370,000
+June| $1,345,000
+July| $1,056,000
+August| ₦$25,000
 
 The supplied report shows different billing levels across the months, allowing management to monitor changes in hotel activity over time.
 
@@ -372,12 +372,12 @@ represents the total reservation/customer billing.
 
 However, the workbook also contains:
 
-- Short Stay Revenue = ₦755,000
-- Night Stay Revenue = ₦1,588,000
+- Short Stay Revenue = $755,000
+- Night Stay Revenue = $1,588,000
 
 Together:
 
-₦755,000 + ₦1,588,000 = ₦2,343,000
+$755,000 + $1,588,000 = $2,343,000
 
 These figures correspond to the workbook's room-rate summary, rather than the full reservation/customer billing.
 
