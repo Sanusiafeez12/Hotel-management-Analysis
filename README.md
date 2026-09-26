@@ -185,9 +185,9 @@ Male Guests| 25
 Female Guests| 25
 Night Stays| 35
 Short Stays| 15
-Total Reservation Billing| ₦7,847,000
-Amount Paid| ₦3,860,000
-Outstanding Balance| ₦4,205,000
+Total Reservation Billing| $7,847,000
+Amount Paid| $3,860,000
+Outstanding Balance| $4,205,000
 
 Room Occupancy
 
@@ -231,12 +231,12 @@ The payment records allow management to monitor payment activity and support rec
 Month| Total Bill
 January| $1,067,000
 February| $809,000
-March| ₦$1,237,000
+March| $1,237,000
 April| $338,000
 May| $1,370,000
 June| $1,345,000
 July| $1,056,000
-August| ₦$25,000
+August|$25,000
 
 The supplied report shows different billing levels across the months, allowing management to monitor changes in hotel activity over time.
 
@@ -348,7 +348,7 @@ Suite rooms have the largest room-type total bill in the supplied report.
 
 5. Outstanding Payments
 
-The workbook records ₦3.860 million as paid against ₦7.847 million in reservation billing, with ₦4.205 million calculated as outstanding.
+The workbook records ₦3.860 million as paid against $7.847 million in reservation billing, with $4.205 million calculated as outstanding.
 
 6. Monthly Billing
 
@@ -366,7 +366,7 @@ One important data-quality issue was identified during the analysis.
 
 The dashboard's:
 
-Total Revenue = ₦7,847,000
+Total Revenue = $7,847,000
 
 represents the total reservation/customer billing.
 
