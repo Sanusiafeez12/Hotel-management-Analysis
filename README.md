@@ -10,7 +10,7 @@ The analysis uses Excel formulas, tables, summaries, charts, and a dashboard to 
 
 🔗 Project Links
 
-- 📊 Excel Project: "View Excel Project" ()
+- 📊 Excel Project: "View Excel Project" (https://1drv.ms/x/c/1f6c66d9acbb9ca2/IQA3HhvsaQrYRYkj-CyjrnSkAVndjJSvFAigoPuD9eJHhZE?e=NnX6WA)
 - 📑 Project Presentation: "View Project Presentation" ()
 
 ---
