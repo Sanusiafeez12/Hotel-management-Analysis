@@ -1,480 +1,156 @@
-Welcome to my Data Analysis Portfolio.
-
-Project
-
-🏨 Hotel Management Analysis.
+Welcome to my Data Analysis Portfolio
 
 I am a Data Analyst and IT & Data Professional with practical experience building Excel-based business solutions, dashboards, reporting systems, and data management tools.
 
+🏨 Hotel Management System Analysis
+
 📌 Project Overview
 
-This project is an Excel-based Hotel Management Analysis and Reporting System developed to organize hotel operational data and transform it into useful business information.
+The Hotel Management System Analysis is an Excel-based hotel operations and data analysis project developed to organize guest, room, booking, and payment information, and transform hotel operations data into useful business insights.
 
-The project combines guest registration, room management, reservations, check-in, check-out, and payment records into a structured Excel workbook.
-
-The analysis uses Excel formulas, tables, summaries, charts, and a dashboard to help management monitor hotel operations, revenue, room occupancy, payments, and guest information.
-
----
-
-🎯 Business Problem
-
-Hotels generate large amounts of operational information every day. Without proper data organization and analysis, management may find it difficult to answer important business questions such as:
-
-- How many guests are currently registered?
-- How many rooms are occupied or available?
-- How many bookings have been made?
-- What is the total customer billing?
-- How much money has been paid?
-- How much is still outstanding?
-- Which room type generates the highest billing?
-- Which payment methods are being used?
-- How does hotel billing change from month to month?
-- Where are the guests coming from?
-- What is the distribution between short stays and night stays?
-
-Problem-Solving Goal
-
-The goal of this project was to transform raw hotel operational records into a structured, automated and visual reporting system that can support hotel management and operational decision-making.
-
----
+The project demonstrates practical skills in Microsoft Excel, data cleaning, formulas, PivotTables, data analysis, reporting, and dashboard development.
 
 🎯 Project Objectives
 
-The main objectives of the project were to:
+- Manage guest, room, and booking records in a structured format.
+- Track check-ins, check-outs, and room occupancy.
+- Calculate booking revenue, payments received, and outstanding balances.
+- Reduce manual tracking of hotel operations.
+- Analyse occupancy, revenue, and guest demographics.
+- Provide useful reports for management decision-making.
+- Present hotel performance through clear summaries and a dashboard.
 
-1. Organize hotel operational data into structured Excel tables.
-2. Connect guest, room, reservation and payment information.
-3. Automate important calculations using Excel formulas.
-4. Monitor room occupancy and availability.
-5. Analyse hotel billing and payment information.
-6. Identify outstanding customer balances.
-7. Analyse room-type revenue.
-8. Analyse monthly billing patterns.
-9. Analyse guest distribution.
-10. Build a management dashboard for reporting.
-11. Demonstrate practical data analysis and problem-solving skills.
+🗂️ System Components
 
----
+The project includes:
 
-📊 Dataset & Project Scope
-
-The workbook contains information relating to:
-
-- Guest registration
-- Room information
-- Reservations
-- Check-in
-- Check-out
-- Payments
-- Room status
-- Stay type
-- Monthly billing
-- Guest location
-- Payment status
-
-The project dataset contains:
-
-- 50 guests
-- 50 rooms
-- 50 bookings
-- 30 occupied rooms
-- 20 available rooms
-- 25 male guests
-- 25 female guests
-- 35 night stays
-- 15 short stays
-
----
-
-📁 Workbook Structure
-
-Sheet| Purpose
-Dashboard| Main management dashboard and KPI view
-Guest Registration| Guest information and registration records
-Rooms| Room numbers, room types, bed types, rates and status
-Check-In| Guest check-in records
-Reservations| Booking, stay type, dates, nights, room rates and bills
-Check-Out| Guest check-out records
-Payment| Payment records, amount paid, balance and payment status
-Summary| Management summary information
-Report| Detailed analytical reports
+- Guest registration records
+- Room inventory and status
+- Check-in records
+- Reservation/booking records
+- Check-out records
+- Payment records
+- Revenue and occupancy analysis
+- Summary and PivotTable reports
+- Live dashboard
 
----
+🔄 Hotel Operations Process
 
-🔄 Data Analysis Workflow
+The system follows a structured operations process:
 
-The project follows this workflow:
+Guest Registration → Reservation → Check-In → Stay → Check-Out → Payment → Report → Analysis
 
-Raw Data → Data Organization → Data Cleaning → Calculations → Summary → Visualization → Business Insights
+This structure helps ensure that guest and booking information can be entered, tracked, billed, and analysed efficiently.
 
-1. Data Collection
+🧹 Data Cleaning & Validation
 
-Hotel records were organized into separate operational sheets.
+Data preparation was performed to improve the quality and consistency of the hotel records.
 
-2. Data Organization
+Key activities include:
 
-The data was structured into Excel tables with unique identifiers such as:
+- Organising guest, room, and booking records into structured Excel Tables.
+- Checking fields for consistency across Reservations, Check-In, and Check-Out sheets.
+- Applying appropriate data formats (dates, currency, IDs).
+- Using data validation for fields such as Room Status and Payment Status.
+- Ensuring rate and billing fields are suitable for formula-driven calculations.
+- Using formulas to reduce manual billing errors.
 
-- Guest ID
-- Booking ID
-- Room Number
-- Check-In ID
-- Check-Out ID
-- Payment ID
+📊 Hotel Operations Analysis
 
-3. Data Cleaning & Validation
+The analysis focuses on important operational measures such as:
 
-The workbook uses standardized fields and controlled entries to reduce inconsistent data.
+- Total guests and gender split
+- Total rooms, occupied rooms, and available rooms
+- Total bookings
+- Total revenue, total amount paid, and outstanding balance
+- Revenue by stay type (Short Stay vs Night Stay)
+- Revenue and rate by room type (Single, Double, Deluxe, Suite)
+- Guest distribution by state
+- Total bill by payment method
 
-Examples include:
+These measures help management understand occupancy performance and revenue collection.
 
-- Standardized room types
-- Standardized payment methods
-- Consistent IDs
-- Date fields
-- Numerical fields
-- Room status
-- Payment status
+📈 Dashboard & Reporting
 
-4. Data Transformation
+The hotel dashboard/reporting section is designed to provide a quick overview of hotel performance.
 
-Excel formulas were used to calculate:
+It can be used to monitor:
 
-- Number of nights
-- Room rates
-- Total bills
-- Payment balances
-- Payment status
-- Stay type
-- Monthly summaries
+- Guest count and gender split
+- Room occupancy (occupied vs available)
+- Total bookings
+- Revenue, payments received, and outstanding balances
+- Room type performance
+- Guest demographics by state
+- Payment method breakdown
 
-5. Data Analysis
+PivotTables, charts, and summaries make the information easier to understand and explore.
 
-The project analyses:
+💡 Business Value
 
-- Room occupancy
-- Room availability
-- Room-type billing
-- Payment methods
-- Outstanding balances
-- Monthly billing
-- Guest gender
-- Guest state distribution
-- Stay types
+The system can help a hotel:
 
-6. Data Visualization
+- Improve guest and room record management.
+- Reduce repetitive manual booking and billing calculations.
+- Monitor revenue and outstanding balances.
+- Identify top-performing room types and peak booking periods.
+- Understand guest demographics for targeted marketing.
+- Produce clearer operational reports.
+- Support data-driven front-desk and management decisions.
 
-The results are presented through:
+🛠️ Tools & Skills Used
 
-- KPI cards
-- Charts
-- Summary tables
-- Dashboard
-- Management reports
+Tools
 
----
-
-📈 Key Performance Indicators
-
-KPI| Result
-Total Guests| 50
-Total Rooms| 50
-Occupied Rooms| 30
-Available Rooms| 20
-Total Bookings| 50
-Male Guests| 25
-Female Guests| 25
-Night Stays| 35
-Short Stays| 15
-Total Reservation Billing| $7,847,000
-Amount Paid| $3,860,000
-Outstanding Balance| $4,205,000
-
-Room Occupancy
-
-Based on the supplied workbook:
-
-30 occupied rooms ÷ 50 total rooms = 60% occupancy
-
----
-
-💰 Revenue Analysis
-
-Revenue by Room Type
-
-Room Type| Total Bill
-Single| $1,210,000
-Double| $1,372,000
-Deluxe| $2,210,000
-Suite| $3,040,000
-Total| $7,847,000
-
-The supplied report shows Suite rooms with the largest room-type total bill at $3.040 million.
-
----
-
-💳 Payment Analysis
-
-The workbook contains three payment methods:
-
-Payment Method| Total Bill
-Cash| $2,768,000
-POS| $2,807,000
-Transfer| $2,272,000
-Total| $7,847,000
-
-The payment records allow management to monitor payment activity and support reconciliation.
-
----
-
-📅 Monthly Billing Analysis
-
-Month| Total Bill
-January| $1,067,000
-February| $809,000
-March| $1,237,000
-April| $338,000
-May| $1,370,000
-June| $1,345,000
-July| $1,056,000
-August|$25,000
-
-The supplied report shows different billing levels across the months, allowing management to monitor changes in hotel activity over time.
-
----
-
-👥 Guest Analysis
-
-The guest records contain:
-
-- 25 male guests
-- 25 female guests
-
-The supplied state table contains guests from:
-
-- Arizona — 5
-- California — 5
-- Colorado — 5
-- Florida — 5
-- Georgia — 5
-- Illinois — 3
-- New York — 8
-- Ohio — 2
-- Texas — 5
-- Washington — 7
-
-This state distribution describes the project dataset only and should not be interpreted as a general population estimate.
-
----
-
-🧮 Problem-Solving Approach
-
-The project solves the hotel-management reporting problem by connecting operational data with analytical reporting.
-
-Before Analysis
-
-Hotel Information
-
-Guests + Rooms + Reservations + Check-In + Check-Out + Payments
-
-After Analysis
-
-Analytical Reporting
-
-Structured Data + Automated Calculations + KPIs + Charts + Dashboard + Business Insights
-
-This makes it easier for management to understand the hotel's current operational position.
-
----
-
-🛠️ Tools Used
-
-Microsoft Excel
-
-The main tools and features used include:
-
+- Microsoft Excel
 - Excel Tables
-- Excel formulas
-- Data validation
-- Data cleaning
-- PivotTables
-- Charts
-- Dashboard
-- Conditional formatting
-- Summary reports
-- KPI calculations
+- Excel Formulas
+- PivotTables & PivotCharts
+- Data Validation
+- Dashboard Reporting
 
----
+Skills Demonstrated
 
-📊 Data Analysis Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Revenue & Occupancy Analysis
+- Excel Reporting
+- Dashboard Development
+- Business Intelligence
+- Problem Solving
+- Data Visualisation
 
-This project demonstrates practical skills in:
+📂 Project Files
 
-- Data cleaning
-- Data validation
-- Data organization
-- Data transformation
-- Data analysis
-- KPI development
-- Revenue analysis
-- Occupancy analysis
-- Payment analysis
-- Customer analysis
-- Business reporting
-- Data visualization
-- Dashboard development
-- Problem solving
+📊 Excel Workbook
 
----
+Hotel Management Analysis.xlsx
 
-🔍 Business Insights
+"View / Download Excel Workbook" (PASTE-YOUR-EXCEL-LINK-HERE)
 
-The analysis provides several useful observations from the supplied dataset:
+📑 Project Presentation
 
-1. Room Occupancy
+Hotel Management System Presentation
 
-30 out of 50 rooms are occupied in the workbook snapshot, representing 60% occupancy.
+"View Project Presentation" (PASTE-YOUR-PRESENTATION-LINK-HERE)
 
-2. Guest Distribution
+📌 Key Learning Outcomes
 
-The guest dataset contains an equal number of male and female guests.
+Through this project, I developed practical experience in:
 
-3. Stay Type
+- Structuring guest, room, and booking data.
+- Cleaning and validating operational data.
+- Creating billing and revenue calculations using Excel formulas.
+- Analysing occupancy, revenue, and guest information.
+- Building PivotTable reports and a dashboard.
+- Converting raw booking data into useful business information.
+- Presenting analytical findings clearly.
 
-Night stays account for 35 records, while short stays account for 15 records.
+👤 About the Project
 
-4. Room Type Billing
+This project was developed as part of my Data Analysis & IT portfolio to demonstrate practical experience in Excel-based data management, analysis, reporting, and business problem solving.
 
-Suite rooms have the largest room-type total bill in the supplied report.
+Project Title: Hotel Management System Analysis
+Tool: Microsoft Excel
+Focus: Hotel Operations Management, Data Analysis & Reporting
 
-5. Outstanding Payments
-
-The workbook records ₦3.860 million as paid against $7.847 million in reservation billing, with $4.205 million calculated as outstanding.
-
-6. Monthly Billing
-
-The monthly report allows management to monitor periods of higher and lower billing.
-
-7. Payment Methods
-
-The system records Cash, POS and Transfer as payment methods.
-
----
-
-⚠️ Important Data Interpretation Note
-
-One important data-quality issue was identified during the analysis.
-
-The dashboard's:
-
-Total Revenue = $7,847,000
-
-represents the total reservation/customer billing.
-
-However, the workbook also contains:
-
-- Short Stay Revenue = $755,000
-- Night Stay Revenue = $1,588,000
-
-Together:
-
-$755,000 + $1,588,000 = $2,343,000
-
-These figures correspond to the workbook's room-rate summary, rather than the full reservation/customer billing.
-
-Therefore, the project documents these as different metrics rather than combining them.
-
-This distinction is important for accurate financial reporting.
-
----
-
-💼 Business Use
-
-A hotel manager could use this system to:
-
-- Monitor room availability.
-- Monitor room occupancy.
-- Track guest registrations.
-- Track reservations.
-- Monitor customer billing.
-- Monitor outstanding balances.
-- Review payment methods.
-- Compare room types.
-- Review monthly billing.
-- Analyse guest information.
-- Support operational reporting.
-- Improve record organization.
-
---
-
-🎓 Portfolio Project
-
-This project demonstrates my ability to take a practical business problem and convert operational records into useful analytical information.
-
-My Analytical Workflow
-
-Problem Identification
-
-↓
-
-Data Collection
-
-↓
-
-Data Cleaning & Validation
-
-↓
-
-Data Organization
-
-↓
-
-Formula-Based Calculations
-
-↓
-
-Data Analysis
-
-↓
-
-Dashboard & Visualization
-
-↓
-
-Business Insights
-
----
-
-🚀 Project Outcome
-
-The Hotel Management Analysis project transforms hotel operational records into a structured Excel-based reporting system.
-
-The project demonstrates practical experience in:
-
-Excel Data Analysis • Data Cleaning • Data Validation • Dashboard Development • Reporting • Business Problem Solving • Data Visualization
-
-It is part of my portfolio as a Data Analyst and IT & Data Professional.
-
----
-
-🔗 Project Links
-
-- 📊 Excel Project: "View Excel Project" (https://1drv.ms/x/c/1f6c66d9acbb9ca2/IQA3HhvsaQrYRYkj-CyjrnSkAVndjJSvFAigoPuD9eJHhZE?e=NnX6WA)
-
-- 📑 Project Presentation: "View Project Presentation" ()
-
-👤 Author
-
-Sanusi Afeez Olamilekan
-
-Data Analyst | IT & Data Professional
-
-Skills demonstrated in this project
-
-Microsoft Excel | Data Analysis | Data Cleaning | Dashboard Development | Data Visualization | Reporting | Problem Solving
-
----
-
-📌 Project Status
-
-Completed — Portfolio Project
