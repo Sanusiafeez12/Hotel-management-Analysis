@@ -14,11 +14,6 @@ The project combines guest registration, room management, reservations, check-in
 
 The analysis uses Excel formulas, tables, summaries, charts, and a dashboard to help management monitor hotel operations, revenue, room occupancy, payments, and guest information.
 
-🔗 Project Links
-
-- 📊 Excel Project: "View Excel Project" (https://1drv.ms/x/c/1f6c66d9acbb9ca2/IQA3HhvsaQrYRYkj-CyjrnSkAVndjJSvFAigoPuD9eJHhZE?e=NnX6WA)
-- 📑 Project Presentation: "View Project Presentation" ()
-
 ---
 
 🎯 Business Problem
@@ -461,6 +456,12 @@ Excel Data Analysis • Data Cleaning • Data Validation • Dashboard Developm
 It is part of my portfolio as a Data Analyst and IT & Data Professional.
 
 ---
+
+🔗 Project Links
+
+- 📊 Excel Project: "View Excel Project" (https://1drv.ms/x/c/1f6c66d9acbb9ca2/IQA3HhvsaQrYRYkj-CyjrnSkAVndjJSvFAigoPuD9eJHhZE?e=NnX6WA)
+
+- 📑 Project Presentation: "View Project Presentation" ()
 
 👤 Author
 
