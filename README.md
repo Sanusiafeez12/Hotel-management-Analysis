@@ -126,13 +126,14 @@ Skills Demonstrated
 
 Hotel Management Analysis.xlsx
 
-"View / Download Excel Workbook" (PASTE-YOUR-EXCEL-LINK-HERE)
+"View Excel Workbook" (https://1drv.ms/x/c/1f6c66d9acbb9ca2/IQA3HhvsaQrYRYkj-CyjrnSkAVndjJSvFAigoPuD9eJHhZE?e=NnX6WA)
 
 📑 Project Presentation
 
 Hotel Management System Presentation
 
-"View Project Presentation" (PASTE-YOUR-PRESENTATION-LINK-HERE)
+"View Project Presentation" (https://1drv.ms/p/c/1f6c66d9acbb9ca2/IQBugKMKjVzTQ6m7qwGPE_QkAW5HthlA88J82GNRZ0KPFq8?e=eg1tr0
+)
 
 📌 Key Learning Outcomes
 
